@@ -33,5 +33,5 @@ Here are some ideas to get you started:
 - 🧩 Cisco Packet Tracer: VLAN & inter-VLAN routing (lab)
 
 ## Contact
-- LinkedIn: https://www.linkedin.com/in/caleb-dorrance-13003a389/
-- Email: caleb.dorrance1@gmail.com
+- [LinkedIn](https://www.linkedin.com/in/caleb-dorrance-13003a389/)
+- [Email](caleb.dorrance1@gmail.com)
