@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 
 ## Featured Work
-- 👉 **[Portfolio repository](https://github.com/<your-username>/portfolio)** — central hub with write-ups & links
+- 👉 **[Portfolio repository](https://github.com/CalebDorrance/Portfolio)** — central hub with write-ups & links
 - 🔍 Wireshark: DNS & HTTP analysis (lab)
 - 🌐 Nmap: Host discovery & service enumeration (lab)
 - 🧩 Cisco Packet Tracer: VLAN & inter-VLAN routing (lab)
