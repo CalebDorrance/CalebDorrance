@@ -19,12 +19,11 @@ Here are some ideas to get you started:
 
 - 📚 Currently studying: A+, Network+, Linux basics, Packet Tracer labs, Windows & Linux hardening
 - 🛠️ Tools: Wireshark · Nmap · Packet Tracer · Kali · PowerShell · Bash · Git
-- 🎯 Interests: Red Team, Blue team, network defense, scripting small automations
-- 🌱 This year’s goals: Build 5 hands-on labs, earn CompTIA Net+, ship a clean GitHub Pages portfolio
-- 💬 Ask me about ...
-- ⚡ Fun fact: ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+- 🎯 Interests: Red Team, Blue Team, network defense, scripting small automations
+- 🌱 This year’s goals: Build 5 hands-on labs, earn CompTIA Net+, earn CompTIA Security+
+- 💬 Ask me about: My goals for the future!
+- ⚡ Fun fact: I got hit in the face with a golf ball
+- 🤔 I’m looking for help with: Anything and everything in the IT and CS space
 
 ## Featured Work
 - 👉 **[Portfolio repository](https://github.com/CalebDorrance/Portfolio)** — central hub with write-ups & links
